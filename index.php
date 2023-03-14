@@ -31,7 +31,7 @@
 <body>
 <div class="w-container message">
 	<div>
-		<h1 class="main-message">Good news! The server is up and running.</h1>
+		<h1 class="main-message">James Paymens testing.</h1>
 	</div>
 	<div class="text">You can start running test payments from <a class="link" href="paymentForm.php">this payment form page.<br></a>
 	</div>
